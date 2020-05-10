@@ -1,3 +1,9 @@
+This project was created as part of the Zero to Master: Complete Web Developer in 2020 course on Udemy.com.
+
+This project was an introduced React, Redux, and APIs to create a simple app that filters robot users fetched from jsonplaceholder and robohash.
+
+Default create-react-app ReadMe: 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
